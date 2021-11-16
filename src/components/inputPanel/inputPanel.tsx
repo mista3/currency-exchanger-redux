@@ -1,4 +1,3 @@
-//fdsfdsf
 import "./inputPanel.scss";
 import { useEffect, useState } from "react";
 import { useAppDispatch, useAppSelector } from "../../store/hooks";
